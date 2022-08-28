@@ -13,3 +13,9 @@ I am planning to collect top-10 stocks with high and low percentage of Instituti
 
 ## A concluding paragraph of what insights you expect to gain from your research
 I would like to see if Institutional Investor or Mutual Funds have a say on the stock price. Also i want to see how stocks with high instiutional holdings  fares against low institutional holding stocks in the past 10 years. Performance of those stocks compared to S&P 500 Index in the US.
+
+
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/haripuduru/stockanalysis/HEAD)
+
